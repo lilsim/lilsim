@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simran Tomar
-- 🌱 I’m currently exloring Fundamentals of Programming
+- 🌱 I’m currently exploring Fundamentals of Programming
 
 <!---
 lilsim/lilsim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
